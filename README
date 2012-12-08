@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4348
+
+The textobj-indblock plugin provides text objects to select a block of indentation whitespace based on the indentation of the current line.
+
+This plugin supplements, and in this respect closely follows the example of the textobj-indent plugin (vimscript #2484).
+
+See the documentation there to learn more.
+
+This plugin depends on the framework provided by the textobj-user plugin (vimscript #2100).
+
