@@ -6,5 +6,5 @@ This plugin supplements, and in this respect closely follows the example of the 
 
 See the documentation there to learn more.
 
-This plugin depends on the framework provided by the textobj-user plugin (vimscript #2100).
+This plugin depends on the framework provided by the textobj-user plugin, version 0.4.0 (vimscript #2100).
 
